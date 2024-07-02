@@ -1,4 +1,4 @@
-#inclube <iosteam.cpp>
+#inclube <iostream.cpp>
 #include <key.cpp>
 
 int main() 
