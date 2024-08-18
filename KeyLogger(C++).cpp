@@ -1,4 +1,4 @@
-#inclube <iostrem.cpp>
+#inclube <iostem.cpp>
 #include <window.h>
 
 string Key;
