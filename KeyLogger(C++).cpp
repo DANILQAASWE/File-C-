@@ -1,7 +1,7 @@
-#inclube <iostream.cpp>
-#include <key.cpp>
+#inclube <iostrem.cpp>
+#include <window.h>
 
-int main() 
-{
-    
-}
+string Key;
+int Nambers;
+
+bublic void 
