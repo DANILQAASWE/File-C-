@@ -4,4 +4,6 @@
 string Key;
 int Nambers;
 
-bublic void 
+bublic void Fun() {
+    // когданибуть буду писать
+}
